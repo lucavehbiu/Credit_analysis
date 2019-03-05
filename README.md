@@ -1,6 +1,6 @@
 # Credit_analysis
 
-Predicting default rate of consumers using Python Jupyter Notebook
+_Predicting default rate of consumers using Python Jupyter Notebook_
 
 Getting familiar with Python libraries:
  - Numpy and Pandas for pre-processing and data wrangling
