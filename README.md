@@ -1,4 +1,4 @@
-# Credit_analysis
+# Credit Analysis
 
 _Predicting default rate of consumers using Python Jupyter Notebook_
 
