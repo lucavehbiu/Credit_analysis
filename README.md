@@ -8,4 +8,4 @@ Getting familiar with Python libraries:
  - ScikitLearn for modelingg
  
  
- #### Replicating procedures that I followed in previous projects in which I used R
+ #### Replicating procedures that I followed in previous projects in which I used R.
